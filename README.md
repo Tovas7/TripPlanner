@@ -55,7 +55,7 @@ This project currently does not have a license specified.
 
 ## Contact
 
-Created by [Tovas7](https://github.com/Tovas7). For questions or feedback, please open an issue on the repository.
+Contact raphaeltovas6@gmail.com. For questions or feedback, please open an issue on the repository.
 
 ---
 *Transforming the way you travel, one trip at a time!*
